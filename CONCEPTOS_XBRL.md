@@ -660,13 +660,13 @@ Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
 1. DistributionCosts
 1. AdministrativeExpense
 1. OtherIncome
-OtherExpenseByFunction
-ProfitLossFromOperatingActivities
-FinanceIncome
-FinanceCosts
-ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod
-ProfitLossBeforeTax
-IncomeTaxExpenseContinuingOperations
-ProfitLossFromContinuingOperations
-ProfitLossFromDiscontinuedOperations
-ProfitLoss
+1. OtherExpenseByFunction
+1. ProfitLossFromOperatingActivities
+1. FinanceIncome
+1. FinanceCosts
+1. ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod
+1. ProfitLossBeforeTax
+1. IncomeTaxExpenseContinuingOperations
+1. ProfitLossFromContinuingOperations
+1. ProfitLossFromDiscontinuedOperations
+1. ProfitLoss
