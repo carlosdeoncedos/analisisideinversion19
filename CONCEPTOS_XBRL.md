@@ -21,7 +21,7 @@ El archivo "informacion_financiera.json", contiene todos los reportes XBRL, publ
 * __GEO__:  Dejó de reportar a partir del 3er trimestre 2017. +
 * __GFAMSA__:  Empezó a reportarlos a partir del 4to trimestre 2018
 * __GMEXICO__:  2do trimestre, 2018
-* __KIMBER__: 4to trimestre del 2016, 2017 y 2018
+* __KIMBER__: 4to trimestre del 2016, 2017 y 2018 ++
 * __LALA__: 3er trimestre, 2016
 * __MEGA__:  Empezó a reportarlos a partir del 4to trimestre 2018
 * __MEXCHEM__:  1er trimestre, 2018
@@ -29,15 +29,15 @@ El archivo "informacion_financiera.json", contiene todos los reportes XBRL, publ
 * __OHLMEX__:  4to trimestre, 2018, 1ero y 2do del 2019
 * __OMA__: 1er trimestre, 2019
 * __PAPEL__: 1er y 4to trimestre, 2018
-* __PE&OLES__: 4to trimestre del 2016, 2017 y 2018.  1er trimestre 2018
-* __WALMEX__:  4to trimestre del 2016, 2017 y 2018
+* __PE&OLES__: 4to trimestre del 2016, 2017 y 2018++.  1er trimestre 2018
+* __WALMEX__:  4to trimestre del 2016, 2017 y 2018++
 
-__NOTA__:
-__+__:  GEO se declarada en bancarrota
+*__NOTA__:*
+*__+__:  GEO se declarada en bancarrota*
+*__++__:  Solo reportaron los estados consolidados, no los trimestrales.*
 
-# TAXONIMIA XBRL PARA LAS EMPRESAS LISTADAS EN LA BMV
-Listado de los conceptos contables XBRL:
-
+## TAXONIMIA XBRL
+Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
 1.- CashAndCashEquivalents
 
 2.- TradeAndOtherCurrentReceivables
@@ -653,3 +653,20 @@ Listado de los conceptos contables XBRL:
 307.- TotalDeImpuestosALaUtilidad
 
 
+## CONCEPTOS DEL ESTADO DE RESULTADOS
+1. Revenue
+1. CostOfSales
+1. GrossProfit
+1. DistributionCosts
+1. AdministrativeExpense
+1. OtherIncome
+OtherExpenseByFunction
+ProfitLossFromOperatingActivities
+FinanceIncome
+FinanceCosts
+ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod
+ProfitLossBeforeTax
+IncomeTaxExpenseContinuingOperations
+ProfitLossFromContinuingOperations
+ProfitLossFromDiscontinuedOperations
+ProfitLoss
