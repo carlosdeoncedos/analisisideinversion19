@@ -348,7 +348,7 @@ Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
 
 
 
-## CONCEPTOS DEL ESTADO DE RESULTADOS
+## TAXONOMIA DEL ESTADO DE RESULTADOS
 1. Revenue
 1. CostOfSales
 1. GrossProfit
@@ -367,8 +367,22 @@ Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
 1. ProfitLoss
 
 
-## CONCEPTOS DEL BALANCE GENERAL
-
+## TAXONOMIA BALANCE GENERAL
+ACTIVOS:
+* ACTIVOS CIRCULANTES:
+  1. CashAndCashEquivalents
+  1. TradeAndOtherCurrentReceivables
+  1. CurrentTaxAssetsCurrent
+  1. OtherCurrentFinancialAssets
+  1. Inventories
+  1. CurrentBiologicalAssets
+  1. OtherCurrentNonfinancialAssets
+  1. CurrentAssetsOtherThanAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners
+  1. NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners
+  1. CurrentAssets
+  
+* ACTIVOS NO CIRCULANTES:
+  
 
 
 
