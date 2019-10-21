@@ -369,7 +369,7 @@ Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
 
 ## TAXONOMIA BALANCE GENERAL
 ACTIVOS:
-* ACTIVOS CIRCULANTES:
+1. ACTIVOS CIRCULANTES:
   1. CashAndCashEquivalents
   1. TradeAndOtherCurrentReceivables
   1. CurrentTaxAssetsCurrent
@@ -381,9 +381,24 @@ ACTIVOS:
   1. NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners
   1. CurrentAssets
   
-* ACTIVOS NO CIRCULANTES:
-  
+1. ACTIVOS NO CIRCULANTES:
+  1. NoncurrentReceivables
+  1. CurrentTaxAssetsNoncurrent
+  1. NoncurrentInventories
+  1. NoncurrentBiologicalAssets
+  1. OtherNoncurrentFinancialAssets
+  1. InvestmentAccountedForUsingEquityMethod
+  1. InvestmentsInSubsidiariesJointVenturesAndAssociates
+  1. PropertyPlantAndEquipment
+  1. InvestmentProperty
+  1. RightofuseAssetsThatDoNotMeetDefinitionOfInvestmentProperty
+  1. Goodwill
+  1. IntangibleAssetsOtherThanGoodwill
+  1. DeferredTaxAssets
+  1. OtherNoncurrentNonfinancialAssets
+  1. NoncurrentAssets
 
+1. Assets
 
 
 ## CONCEPTOS DE LOS ESTADOS DE FLUJOS DE EFECTIVO
