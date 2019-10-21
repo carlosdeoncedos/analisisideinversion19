@@ -1,23 +1,33 @@
-El archivo "informacion_financiera.json", contiene todos los reportes XBRL, publicados por las emisoras de la BMV a la CNBV y a la misma BMV.  A la fecha de este documento incluye el periodo del tercer trimestre del 2016 al segundo trimestre del 2019.  Por diferentes razones, no todas las empresas han presentado sus reportes XBRL trimestrales:
+# ANTECEDENTES
+El 11 de noviembre del 2008, la Comisión Nacional de Banca y de Valores (CNBV), publicó en su boletín de prensa que todas las empresas listadas en la Bolsa Mexicana de Valores (BMV), tenían que adoptar las "Normas Internacionales de Información Financiera" o IFRS, por sus siglas en inglés, menos el sector financiero.  Este proceso terminó en el 2012.  La evolución de esta medida, llevo a que todas las empresas listadas en la BMV, tengan que presentar sus estados financieros en el código __XBRL__.
+
+# XBRL
+El XBRL, es un lenguaje abierto, que se está usando para la comunicación electrónica de datos comerciales y financieros. El objetivo de este lenguaje es eliminar los errores en la captura de datos financieros.  Eliminar la incompatibilidad de formatos, al mismo tiempo que permite la verificación y validaciónd de los datos.
+
+
+El archivo "informacion_financiera.json", contiene todos los reportes XBRL, publicados por las emisoras que cotizan en la BMV.  A la fecha de este documento incluye el periodo del tercer trimestre del 2016 al segundo trimestre del 2019.  Por diferentes razones, no todas las empresas han presentado sus reportes XBRL trimestrales:
 
 * __AUTLAN__: 3er trimestre, 2017
 * __BOLSA__: 4to trimestre, 2016
 * __CMOCTEZ__:  Empezó a reportarlos a partir del 4to trimestre 2018
 * __CUERVO__:  3er trimestre, 2016
 * __GCC__:  Empezó a reportarlos a partir del 4to trimestre 2018
-* __GEO$^1$__:  Dejó de reportar a partir del 3er trimestre 2017
+* __GEO__:  Dejó de reportar a partir del 3er trimestre 2017. +
 * __GFAMSA__:  Empezó a reportarlos a partir del 4to trimestre 2018
 * __GMEXICO__:  2do trimestre, 2018
 * __KIMBER__: 4to trimestre del 2016, 2017 y 2018
 * __LALA__: 3er trimestre, 2016
 * __MEGA__:  Empezó a reportarlos a partir del 4to trimestre 2018
-* __MEXCHEM$^2$__:  1er trimestre, 2018
+* __MEXCHEM__:  1er trimestre, 2018
 * __MFRSICO__:  1er trimestre, 2018
-* __OHLMEX$^3$__:
+* __OHLMEX__:  4to trimestre, 2018, 1ero y 2do del 2019
 * __OMA__: 1er trimestre, 2019
 * __PAPEL__: 1er y 4to trimestre, 2018
 * __PE&OLES__: 4to trimestre del 2016, 2017 y 2018.  1er trimestre 2018
 * __WALMEX__:  4to trimestre del 2016, 2017 y 2018
+
+__NOTA__:
+__+__:  GEO se declarada en bancarrota
 
 
 Listado de los conceptos contables XBRL:
