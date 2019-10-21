@@ -373,34 +373,34 @@ Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
 1. Assets
 
 **Activos circulantes:**
-  1. CashAndCashEquivalents
-  1. TradeAndOtherCurrentReceivables
-  1. CurrentTaxAssetsCurrent
-  1. OtherCurrentFinancialAssets
-  1. Inventories
-  1. CurrentBiologicalAssets
-  1. OtherCurrentNonfinancialAssets
-  1. CurrentAssetsOtherThanAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners
-  1. NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners
-  1. CurrentAssets
+    1. CashAndCashEquivalents
+    1. TradeAndOtherCurrentReceivables
+    1. CurrentTaxAssetsCurrent
+    1. OtherCurrentFinancialAssets
+    1. Inventories
+    1. CurrentBiologicalAssets
+    1. OtherCurrentNonfinancialAssets
+    1. CurrentAssetsOtherThanAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners
+    1. NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners
+    1. CurrentAssets
   
   
 **Activos no circulantes:**
-  1. NoncurrentReceivables
-  1. CurrentTaxAssetsNoncurrent
-  1. NoncurrentInventories
-  1. NoncurrentBiologicalAssets
-  1. OtherNoncurrentFinancialAssets
-  1. InvestmentAccountedForUsingEquityMethod
-  1. InvestmentsInSubsidiariesJointVenturesAndAssociates
-  1. PropertyPlantAndEquipment
-  1. InvestmentProperty
-  1. RightofuseAssetsThatDoNotMeetDefinitionOfInvestmentProperty
-  1. Goodwill
-  1. IntangibleAssetsOtherThanGoodwill
-  1. DeferredTaxAssets
-  1. OtherNoncurrentNonfinancialAssets
-  1. NoncurrentAssets
+    1. NoncurrentReceivables
+    1. CurrentTaxAssetsNoncurrent
+    1. NoncurrentInventories
+    1. NoncurrentBiologicalAssets
+    1. OtherNoncurrentFinancialAssets
+    1. InvestmentAccountedForUsingEquityMethod
+    1. InvestmentsInSubsidiariesJointVenturesAndAssociates
+    1. PropertyPlantAndEquipment
+    1. InvestmentProperty
+    1. RightofuseAssetsThatDoNotMeetDefinitionOfInvestmentProperty
+    1. Goodwill
+    1. IntangibleAssetsOtherThanGoodwill
+    1. DeferredTaxAssets
+    1. OtherNoncurrentNonfinancialAssets
+    1. NoncurrentAssets
 
 
 
