@@ -4,7 +4,13 @@ El 11 de noviembre del 2008, la Comisión Nacional de Banca y de Valores (CNBV),
 # XBRL
 El XBRL, es un lenguaje abierto, que se está usando para la comunicación electrónica de datos comerciales y financieros. El objetivo de este lenguaje es eliminar los errores en la captura de datos financieros.  Eliminar la incompatibilidad de formatos, al mismo tiempo que permite la verificación y validaciónd de los datos.
 
+En el caso del los reportes XBRL para uso en finanzas, el lenguaje tiene una __taxonomía__ (descripción de los conceptos de un reporte financiero) y siguen las normas de la IFRS, así como los requisitos gubernamentales como lo es la CNBV para la presentación de sus reportes financieros. 
 
+En el punto "TAXONIMIA XBRL PARA LAS EMPRESAS LISTADAS EN LA BMV", se describe cada uno de los 307 conceptos que se tienen dada en la TAXONIMA para México.  
+
+En el punto "CONSTRUCCION DE LOS REPORTES FINANCIEROS", se especifica que conceptos corresponden al "Estado de Resultados", "Balance General", y "Flujos de Efectivo".
+
+# SOBRE EL ARCHIVO "informacion_financiera.json"
 El archivo "informacion_financiera.json", contiene todos los reportes XBRL, publicados por las emisoras que cotizan en la BMV.  A la fecha de este documento incluye el periodo del tercer trimestre del 2016 al segundo trimestre del 2019.  Por diferentes razones, no todas las empresas han presentado sus reportes XBRL trimestrales:
 
 * __AUTLAN__: 3er trimestre, 2017
@@ -29,7 +35,7 @@ El archivo "informacion_financiera.json", contiene todos los reportes XBRL, publ
 __NOTA__:
 __+__:  GEO se declarada en bancarrota
 
-
+# TAXONIMIA XBRL PARA LAS EMPRESAS LISTADAS EN LA BMV
 Listado de los conceptos contables XBRL:
 
 1.- CashAndCashEquivalents
@@ -645,3 +651,5 @@ Listado de los conceptos contables XBRL:
 306.- ImpuestoDiferido
 
 307.- TotalDeImpuestosALaUtilidad
+
+
