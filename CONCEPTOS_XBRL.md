@@ -373,6 +373,7 @@ Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
 1. Assets
 
 **Activos circulantes:**
+1. Assets
     1. CashAndCashEquivalents
     1. TradeAndOtherCurrentReceivables
     1. CurrentTaxAssetsCurrent
@@ -383,9 +384,6 @@ Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
     1. CurrentAssetsOtherThanAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners
     1. NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners
     1. CurrentAssets
-  
-  
-**Activos no circulantes:**
     1. NoncurrentReceivables
     1. CurrentTaxAssetsNoncurrent
     1. NoncurrentInventories
