@@ -1,3 +1,25 @@
+El archivo "informacion_financiera.json", contiene todos los reportes XBRL, publicados por las emisoras de la BMV a la CNBV y a la misma BMV.  A la fecha de este documento incluye el periodo del tercer trimestre del 2016 al segundo trimestre del 2019.  Por diferentes razones, no todas las empresas han presentado sus reportes XBRL trimestrales:
+
+* __AUTLAN__: 3er trimestre, 2017
+* __BOLSA__: 4to trimestre, 2016
+* __CMOCTEZ__:  Empezó a reportarlos a partir del 4to trimestre 2018
+* __CUERVO__:  3er trimestre, 2016
+* __GCC__:  Empezó a reportarlos a partir del 4to trimestre 2018
+* __GEO$^1$__:  Dejó de reportar a partir del 3er trimestre 2017
+* __GFAMSA__:  Empezó a reportarlos a partir del 4to trimestre 2018
+* __GMEXICO__:  2do trimestre, 2018
+* __KIMBER__: 4to trimestre del 2016, 2017 y 2018
+* __LALA__: 3er trimestre, 2016
+* __MEGA__:  Empezó a reportarlos a partir del 4to trimestre 2018
+* __MEXCHEM$^2$__:  1er trimestre, 2018
+* __MFRSICO__:  1er trimestre, 2018
+* __OHLMEX$^3$__:
+* __OMA__: 1er trimestre, 2019
+* __PAPEL__: 1er y 4to trimestre, 2018
+* __PE&OLES__: 4to trimestre del 2016, 2017 y 2018.  1er trimestre 2018
+* __WALMEX__:  4to trimestre del 2016, 2017 y 2018
+
+
 Listado de los conceptos contables XBRL:
 
 1.- CashAndCashEquivalents
