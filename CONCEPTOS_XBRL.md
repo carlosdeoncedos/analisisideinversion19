@@ -408,8 +408,8 @@ Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
     1. NoncurrentLiabilities
         1. NoncurrentPayables 
         1. CurrentTaxLiabilitiesNoncurrent
-        1. OtherNoncurrentNonfinancialLiabilities
-        1. NoncurrentLeaseLiabilities AMARILLO
+        1. OtherNoncurrentFinancialLiabilities
+        1. NoncurrentLeaseLiabilities
         1. OtherNoncurrentNonfinancialLiabilities
         1. NoncurrentProvisions
         1. DeferredTaxLiabilities
