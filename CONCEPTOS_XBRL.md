@@ -402,3 +402,8 @@ Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
 
 
 ## CONCEPTOS DE LOS ESTADOS DE FLUJOS DE EFECTIVO
+
+
+# SOBRE LA MONEDA DEL REPORTE
+Reportan en USD:
+* CEMEX
