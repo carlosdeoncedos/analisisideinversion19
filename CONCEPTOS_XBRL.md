@@ -396,6 +396,33 @@ Para cada reporte trimestral, el archivo contiene los siguientes conceptos:
         1. IntangibleAssetsOtherThanGoodwill
         1. DeferredTaxAssets
         1. OtherNoncurrentNonfinancialAssets
+1. Liabilities
+    1. CurrentLiabilities 
+        1. TradeAndOtherCurrentPayables
+        1. CurrentTaxLiabilitiesCurrent
+        1. OtherCurrentFinancialLiabilities
+        1. CurrentLeaseLiabilities
+        1. OtherCurrentNonfinancialLiabilities
+        1. CurrentProvisions
+        1. LiabilitiesIncludedInDisposalGroupsClassifiedAsHeldForSale
+    1. NoncurrentLiabilities
+        1. NoncurrentPayables 
+        1. CurrentTaxLiabilitiesNoncurrent
+        1. OtherNoncurrentNonfinancialLiabilities
+        1. NoncurrentLeaseLiabilities AMARILLO
+        1. OtherNoncurrentNonfinancialLiabilities
+        1. NoncurrentProvisions
+        1. DeferredTaxLiabilities
+1. Equity
+    1. IssuedCapital
+    1. SharePremium
+    1. TreasuryShares
+    1. RetainedEarnings
+    1. OtherReserves
+    1. EquityAttributableToOwnersOfParent
+    1. NoncontrollingInterests
+1. EquityAndLiabilities
+        
     
 
 
